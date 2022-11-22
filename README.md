@@ -16,4 +16,3 @@ Site para instalação do node e npm: https://docs.npmjs.com/downloading-and-ins
 
 Design System GOV BR
 Link: https://www.gov.br/ds/como-comecar/instalacao
->>>>>>> 932f6d4e6a57676d0b5c987ee40ff39d392b80ab
