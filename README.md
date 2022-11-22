@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Aplicação para listar unidades de saúde
 
 ## 🚀 Começando
